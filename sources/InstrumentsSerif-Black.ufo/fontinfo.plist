@@ -7,11 +7,11 @@
     <key>capHeight</key>
     <integer>720</integer>
     <key>copyright</key>
-    <string>Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)</string>
+    <string>Copyright 2022 The Instruments Serif Project Authors (https://github.com/Instrument/instruments-serif)</string>
     <key>descender</key>
     <integer>-205</integer>
     <key>familyName</key>
-    <string>Instrument Serif</string>
+    <string>Instruments Serif</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -98,7 +98,7 @@
     <key>openTypeOS2VendorID</key>
     <string>FTG </string>
     <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
+    <integer>900</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>990</integer>
     <key>openTypeOS2WinDescent</key>
@@ -134,11 +134,11 @@
     <key>postscriptUnderlineThickness</key>
     <integer>38</integer>
     <key>styleMapFamilyName</key>
-    <string>Instrument Serif</string>
+    <string>Instruments Serif</string>
     <key>styleMapStyleName</key>
-    <string>regular</string>
+    <string>bold</string>
     <key>styleName</key>
-    <string>Regular</string>
+    <string>Black</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
