@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="220"/>
+  <unicode hex="013C"/>
+  <anchor x="110" y="-305" name="bottom"/>
+  <anchor x="110" y="370" name="center"/>
+  <anchor x="85" y="710" name="top"/>
+  <anchor x="173" y="740" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="commaaccentcomb" xOffset="-4"/>
+  </outline>
+</glyph>
