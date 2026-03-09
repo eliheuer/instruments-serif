@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="2">
-  <outline>
-    <contour>
-      <point x="84" y="78" type="line"/>
-      <point x="108" y="78" type="line"/>
-      <point x="232" y="251" type="line"/>
-      <point x="108" y="424" type="line"/>
-      <point x="84" y="424" type="line"/>
-      <point x="162" y="251" type="line"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="84" y="78" type="line"/>
+			<point x="108" y="78" type="line"/>
+			<point x="232" y="251" type="line"/>
+			<point x="108" y="424" type="line"/>
+			<point x="84" y="424" type="line"/>
+			<point x="162" y="251" type="line"/>
+		</contour>
+	</outline>
 </glyph>

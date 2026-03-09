@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="5.0">
+<designspace format="5">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400"/>
+    <axis name="Weight" tag="wght" default="400" minimum="400" maximum="900"/>
   </axes>
   <sources>
-    <source filename="InstrumentsSerif-Regular.ufo" familyname="Instruments Serif" stylename="Regular">
+    <source familyname="Instruments Serif" stylename="Regular" name="Instruments Serif Regular" filename="InstrumentsSerif-Regular.ufo">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="InstrumentsSerif-Black.ufo" familyname="Instruments Serif" stylename="Black">
+    <source familyname="Instruments Serif" stylename="Black" name="Instruments Serif Black" filename="InstrumentsSerif-Black.ufo">
       <location>
         <dimension name="Weight" xvalue="900"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Instruments Serif" stylename="Regular">
+    <instance familyname="Instruments Serif" stylename="Regular" name="">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
     </instance>
-    <instance familyname="Instruments Serif" stylename="Black">
+    <instance familyname="Instruments Serif" stylename="Black" name="">
       <location>
         <dimension name="Weight" xvalue="900"/>
       </location>
