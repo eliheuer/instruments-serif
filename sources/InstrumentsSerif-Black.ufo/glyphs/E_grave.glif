@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Egrave" format="2">
 	<unicode hex="00C8"/>
-	<advance width="453"/>
+	<advance width="452"/>
 	<outline>
 		<component base="E"/>
 		<component base="gravecomb" xOffset="49" yOffset="210"/>

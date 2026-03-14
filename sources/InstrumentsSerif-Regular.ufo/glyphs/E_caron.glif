@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="2">
 	<unicode hex="011A"/>
-	<advance width="453"/>
+	<advance width="452"/>
 	<outline>
 		<component base="E"/>
 		<component base="caroncomb" xOffset="10" yOffset="210"/>

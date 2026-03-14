@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotaccent.ss01" format="2">
-	<advance width="355"/>
+	<advance width="356"/>
 	<outline>
 		<component base="e.ss01"/>
 		<component base="dotaccentcomb" xOffset="68"/>
