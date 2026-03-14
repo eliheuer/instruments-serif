@@ -6,4 +6,10 @@
 		<component base="idotless"/>
 		<component base="acutecomb" xOffset="-65"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.251,0.251,1</string>
+		</dict>
+	</lib>
 </glyph>

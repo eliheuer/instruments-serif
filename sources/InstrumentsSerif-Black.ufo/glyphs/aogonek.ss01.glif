@@ -5,4 +5,10 @@
 		<component base="a.ss01"/>
 		<component base="ogonekcomb"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.251,0.251,1</string>
+		</dict>
+	</lib>
 </glyph>

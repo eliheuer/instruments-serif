@@ -1,10 +1,10 @@
-# Instrument Serif
+# Instruments Serif
 
-> A condensed, display serif designed for the [Instrument](https://instrument.com) brand and open-sourced for you.
+![Instruments Serif Weight Waterfall](./documentation/graphics/image-01.png)
 
-![Drag Racing](./docs/1-header.gif)
+![Instruments Serif Character Set](./documentation/graphics/image-02.png)
 
-Instrument Serif is designed for large sizes and offers a contemporary take on some of [our](https://instrument.com) favorite old style serifs.
+A variable weight serif typeface forked from [Instrument Serif](https://github.com/Instrument/instrument-serif), with a weight axis ranging from Regular (400) to Black (900).
 
 ## Language support
 
@@ -12,13 +12,16 @@ The 374 latin glyphs that make up this font support 86 languages:
 
 Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Breton, Catalan, Chiga, Colognian, Cornish, Croatian, Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French, Friulian, Galician, Ganda, German, Gusii, Hungarian, Inari Sami, Indonesian, Irish, Italian, Jola-Fonyi, Kabuverdianu, Kalenjin, Kinyarwanda, Latvian, Lithuanian, Lower Sorbian, Luo, Luxembourgish, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Maltese, Manx, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Polish, Portuguese, Quechua, Romanian, Romansh, Rombo, Rundi, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Serbian, Shambala, Shona, Slovak, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Welsh, Western Frisian, Zulu
 
-## Changelog
+## Building
 
-12.05.2022 Upload of the first files for Google Revision
+```bash
+# Build the variable font with fontc
+./build.sh
+```
 
 ## Acknowledgements
 
-Designed by [Rodrigo Fuenzalida](https://rfuenzalida.com) with direction from [Jordan Egstad](https://egstad.com), [JD Hooge](http://jdhooge.com/), and [Jack De Caluwé](https://jackdecaluwe.com/) on behalf of [Instrument](https://instrument.com).
+Originally designed by [Rodrigo Fuenzalida](https://rfuenzalida.com) with direction from [Jordan Egstad](https://egstad.com), [JD Hooge](http://jdhooge.com/), and [Jack De Caluwé](https://jackdecaluwe.com/) on behalf of [Instrument](https://instrument.com).
 
 ## License
 

@@ -28,7 +28,7 @@
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0.867,0.2,1</string>
+			<string>1,0.251,0.251,1</string>
 		</dict>
 	</lib>
 </glyph>

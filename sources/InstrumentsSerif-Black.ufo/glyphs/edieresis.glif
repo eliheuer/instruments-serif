@@ -6,4 +6,10 @@
 		<component base="e"/>
 		<component base="dieresiscomb" xOffset="-12"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.251,0.251,1</string>
+		</dict>
+	</lib>
 </glyph>

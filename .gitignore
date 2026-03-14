@@ -1,1 +1,4 @@
 fonts/
+temp/
+*.png
+.DS_Store
