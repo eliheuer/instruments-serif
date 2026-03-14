@@ -2,4 +2,10 @@
 <glyph name="space" format="2">
 	<unicode hex="0020"/>
 	<advance width="170"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.6,0.2,1</string>
+		</dict>
+	</lib>
 </glyph>
