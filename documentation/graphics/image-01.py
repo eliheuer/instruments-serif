@@ -57,7 +57,7 @@ def draw_background():
 
 
 def draw_main_text():
-    fill(0.8)
+    fill(0.3)
     stroke(None)
     TEXT = "Instruments Serif"
     weights = [400, 456, 511, 567, 622, 678, 733, 789, 844, 900]
