@@ -395,6 +395,16 @@
 		<key>seven</key>
 		<integer>-14</integer>
 	</dict>
+	<key>m</key>
+	<dict>
+		<key>e</key>
+		<integer>-8</integer>
+	</dict>
+	<key>n</key>
+	<dict>
+		<key>t</key>
+		<real>-15.92578125</real>
+	</dict>
 	<key>nine</key>
 	<dict>
 		<key>five</key>
@@ -1747,6 +1757,8 @@
 	<dict>
 		<key>g</key>
 		<integer>-18</integer>
+		<key>u</key>
+		<integer>-8</integer>
 	</dict>
 	<key>seven</key>
 	<dict>
@@ -1818,6 +1830,11 @@
 		<integer>-20</integer>
 		<key>seven</key>
 		<integer>-18</integer>
+	</dict>
+	<key>u</key>
+	<dict>
+		<key>m</key>
+		<integer>-8</integer>
 	</dict>
 	<key>v</key>
 	<dict>
