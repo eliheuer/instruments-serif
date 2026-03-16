@@ -2,8 +2,6 @@
 
 ![Instruments Serif Weight Waterfall](./documentation/graphics/image-01.png)
 
-![Instruments Serif Character Set](./documentation/graphics/image-02.png)
-
 A variable weight serif typeface forked from [Instrument Serif](https://github.com/Instrument/instrument-serif), with a weight axis ranging from Regular (400) to Black (900).
 
 ## Language support

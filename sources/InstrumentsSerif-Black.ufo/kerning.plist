@@ -1758,7 +1758,7 @@
 		<key>g</key>
 		<integer>-18</integer>
 		<key>u</key>
-		<integer>-8</integer>
+		<integer>0</integer>
 	</dict>
 	<key>seven</key>
 	<dict>
@@ -1834,7 +1834,7 @@
 	<key>u</key>
 	<dict>
 		<key>m</key>
-		<integer>-8</integer>
+		<integer>0</integer>
 	</dict>
 	<key>v</key>
 	<dict>

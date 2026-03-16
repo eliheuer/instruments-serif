@@ -98,7 +98,7 @@
 	<key>openTypeOS2VendorID</key>
 	<string>FTG </string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
+	<integer>900</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>990</integer>
 	<key>openTypeOS2WinDescent</key>
